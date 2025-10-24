@@ -17,19 +17,8 @@ def get_all_questions():
                 "C": "Hastanedeki hekimler tarafından yapılan ilk müdahaledir.",
                 "D": "Olay yerinde, hastanın sağlık durumunun daha da kötüleşmesini engellemek amacıyla ilaçsız olarak yapılan müdahaledir."
             },
-            "correct_answer": "D"
-        },
-        {
-            "id": 2,
-            "topic": "Genel İlk Yardım Bilgileri",
-            "question": "Ani olarak ortaya çıkan hastalık veya yaralanma durumunda; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla olay yerindeki mevcut imkânlarla yapılan hızlı ve etkili müdahaleye ne isim verilir?",
-            "options": {
-                "A": "Acil tedavi",
-                "B": "İleri yaşam desteği",
-                "C": "İlk yardım",
-                "D": "Acil müdahale"
-            },
-            "correct_answer": "C"
+            "correct_answer": "D",
+            "difficulty": "kolay"
         },
         {
             "id": 3,
@@ -41,19 +30,8 @@ def get_all_questions():
                 "C": "Kayıt tutma",
                 "D": "Kurtarma"
             },
-            "correct_answer": "C"
-        },
-        {
-            "id": 4,
-            "topic": "Genel İlk Yardım Bilgileri",
-            "question": "Hangisi ilk yardımın temel uygulamalarındandır?",
-            "options": {
-                "A": "Koruma, Kayıt tutma, Kurtarma",
-                "B": "Koruma, Bildirme, Kurtarma",
-                "C": "Koruma, Kurtarma, Tedavi etme",
-                "D": "Koruma, Bildirme, Tedavi etme"
-            },
-            "correct_answer": "B"
+            "correct_answer": "C",
+            "difficulty": "kolay"
         },
         {
             "id": 28,
@@ -65,19 +43,8 @@ def get_all_questions():
                 "C": "110-130 arası",
                 "D": "60-150 arası"
             },
-            "correct_answer": "B"
-        },
-        {
-            "id": 33,
-            "topic": "Hasta/Yaralının ve Olay Yerinin Değerlendirilmesi",
-            "question": "Erişkin bir insanın dakikadaki solunum sayısı normalde kaçtır?",
-            "options": {
-                "A": "12-20",
-                "B": "8-12",
-                "C": "20-25",
-                "D": "10-12"
-            },
-            "correct_answer": "A"
+            "correct_answer": "B",
+            "difficulty": "orta"
         },
         {
             "id": 65,
@@ -89,7 +56,8 @@ def get_all_questions():
                 "C": "10 kalp masajı - 1 soluk",
                 "D": "5 kalp masajı - 2 soluk"
             },
-            "correct_answer": "B"
+            "correct_answer": "B",
+            "difficulty": "orta"
         },
         {
             "id": 77,
@@ -101,7 +69,8 @@ def get_all_questions():
                 "C": "6 cm",
                 "D": "7 cm"
             },
-            "correct_answer": "B"
+            "correct_answer": "B",
+            "difficulty": "orta"
         },
         {
             "id": 150,
@@ -113,7 +82,8 @@ def get_all_questions():
                 "C": "Dış kanama",
                 "D": "Doğal deliklerden olan kanama"
             },
-            "correct_answer": "B"
+            "correct_answer": "B",
+            "difficulty": "zor"
         },
          {
             "id": 154,
@@ -125,7 +95,8 @@ def get_all_questions():
                 "C": "Hastanın üzeri örtülerek sıcak tutulur.",
                 "D": "Hasta hareket ettirilmez."
             },
-            "correct_answer": "A"
+            "correct_answer": "A",
+            "difficulty": "zor"
         }
         # ... Buraya PDF'teki diğer 300+ soruyu ekleyin ...
     ]
